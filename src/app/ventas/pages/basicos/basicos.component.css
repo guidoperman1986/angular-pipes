@@ -1,0 +1,10 @@
+.grid {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between;
+}
+
+.box {
+    width: 25rem;
+    margin: 1rem;
+}
