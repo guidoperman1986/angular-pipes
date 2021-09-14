@@ -14,7 +14,7 @@ registerLocaleData(localEs);
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
     AppRoutingModule,
